@@ -1,7 +1,3 @@
-`app.py`에는 이런 표시 없이 **코드만** 들어가야 합니다.
-
-아래 코드를 그대로 복사해서 넣으면 정상 실행됩니다.
-
 ```python
 import streamlit as st
 import random
